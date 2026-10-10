@@ -1,0 +1,11 @@
+{
+    "scene": "ElectricOverload",
+    "status": "FAIL",
+    "checkedUtc": "2026-10-10T04:49:25.0956036Z",
+    "frames": 41,
+    "fps": 15,
+    "duration": 6.0,
+    "errors": [
+        "Capture: Blank hero image."
+    ]
+}

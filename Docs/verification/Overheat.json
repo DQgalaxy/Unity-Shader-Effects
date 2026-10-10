@@ -1,0 +1,11 @@
+{
+    "scene": "Overheat",
+    "status": "FAIL",
+    "checkedUtc": "2026-10-10T04:49:21.1604336Z",
+    "frames": 42,
+    "fps": 15,
+    "duration": 6.0,
+    "errors": [
+        "Capture: Blank hero image."
+    ]
+}

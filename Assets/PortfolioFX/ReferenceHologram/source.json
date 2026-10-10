@@ -1,0 +1,6 @@
+{
+  "source": "F:/UnityProjects/1/Assets/Resources/11/Textures/NoiseClassic01.png",
+  "noisePath": "Assets/PortfolioFX/ReferenceHologram/T_HologramSignalNoise.png",
+  "reference": "F:/UnityProjects/1/Assets/MyShaders/11_6Hologram.shadergraph",
+  "approach": "Reference height-local vertex disturbance and flicker; no repeated scanline layers copied. Ellen detail maps remain those already imported in project 10."
+}

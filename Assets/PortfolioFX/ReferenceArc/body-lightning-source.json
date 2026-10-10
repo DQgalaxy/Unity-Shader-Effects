@@ -1,0 +1,7 @@
+{
+  "source": "Assets/UnityTechnologies/ParticlePack/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif",
+  "intermediate": "Assets/PortfolioFX/ReferenceArc/T_ArcBranchAtlas.png",
+  "output": "Assets/PortfolioFX/ReferenceArc/T_BodyLightning.png",
+  "treatment": "R*A mask extraction; 1px main dilation, 2px weighted halo; gain 1.45; linear RGB mask with opaque alpha; Repeat wrap.",
+  "originalAssetUnmodified": true
+}

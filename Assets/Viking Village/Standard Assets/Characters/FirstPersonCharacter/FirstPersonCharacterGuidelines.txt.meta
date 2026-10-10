@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc9b000e9b8028247bd816e159382646
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005956
+  packageName: "Viking Village URP \u7EF4\u4EAC\u6751\u5E84"
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt
+  uploadId: 0

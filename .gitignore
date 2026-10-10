@@ -1,0 +1,57 @@
+# Unity 缓存
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 备份
+RepairBackups/
+
+# 日志
+*.log
+
+# 文档（只保留 README.md）
+*.md
+!README.md
+*.docx
+*.doc
+*.pdf
+
+# 所有图片（但保留 Docs/media 里的 demo 图）
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tga
+*.psd
+*.tif
+*.exr
+*.hdr
+!Docs/media/
+!Docs/media/**
+
+# 模型 / 音频 / 视频
+*.fbx
+*.obj
+*.blend
+*.max
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.avi

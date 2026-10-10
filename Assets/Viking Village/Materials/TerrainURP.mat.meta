@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aac58f04a7f2b4ba08948773cd72f022
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005956
+  packageName: "Viking Village URP \u7EF4\u4EAC\u6751\u5E84"
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Materials/TerrainURP.mat
+  uploadId: 0

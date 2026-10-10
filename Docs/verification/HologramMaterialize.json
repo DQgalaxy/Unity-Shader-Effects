@@ -1,0 +1,11 @@
+{
+    "scene": "HologramMaterialize",
+    "status": "FAIL",
+    "checkedUtc": "2026-10-10T04:49:28.2213822Z",
+    "frames": 47,
+    "fps": 15,
+    "duration": 10.0,
+    "errors": [
+        "Capture: Blank hero image."
+    ]
+}

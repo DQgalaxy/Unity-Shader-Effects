@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a13346b3f634fd47adfbd46bbe6ae1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20003524
+  packageName: "\u901A\u7528\u62D6\u5C3E\u7279\u65481(URP)"
+  packageVersion: 1.0.0
+  assetPath: Assets/Trail/Materials/Trail_03.mat
+  uploadId: 0

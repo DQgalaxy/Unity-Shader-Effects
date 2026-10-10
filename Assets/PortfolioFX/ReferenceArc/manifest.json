@@ -1,0 +1,49 @@
+{
+  "note": "Derived masks from existing assets, not original artwork. All outputs are linear R masks with opaque alpha. Lightning is a 2x2 atlas, not a seamless strip.",
+  "protectedAssets": {
+    "Assets/PortfolioFX/Scenes/ElectricOverload.unity": "0D8E5DF5CF8CB50AA6E3A0E3D25271B53A8ED98CEFD10E3A83E7B61396303F75",
+    "Assets/PortfolioFX/MyMaterial/M_ElectricArc.mat": "DA811A70F4E4BA224C19E614184D644FBF14974BA63FC812F2621C52FF268094",
+    "Assets/PortfolioFX/Scenes/ArcaneChargeShot.unity": "6B4D52452D26A8782568D548BC141A659232F4BEB95B46F8770875CC29F56F86",
+    "Assets/PortfolioFX/Materials/ArcaneChargeShot_Arc.mat": "1E1937435E16D1C77F67033CDA85870C813F13724C77B3CBE5DD4C9B5C8BB27D",
+    "Assets/PortfolioFX/Scripts/Runtime/FXArcBeam.cs": "129EC2E4EDE7528CA88E7DEDF317CAE99A32091468CF4E19F39724E26254C029",
+    "Assets/PortfolioFX/Shaders/SG_ArcRibbon.shadergraph": "2D9881E33777CEC9AD50145A1DF1D02AAEF240775B4258DA3782C8F8FF6B8C8D"
+  },
+  "textures": [
+    {
+      "peak": 186,
+      "nonzeroPixels": 202167,
+      "source": "Assets/Trail/Textures/Trail_02.png",
+      "height": 1024,
+      "conversion": "Alpha",
+      "output": "Assets/PortfolioFX/ReferenceArc/T_ArcFilament.png",
+      "width": 1024
+    },
+    {
+      "peak": 189,
+      "nonzeroPixels": 147885,
+      "source": "Assets/Trail/Textures/Trail_01.png",
+      "height": 1024,
+      "conversion": "Alpha",
+      "output": "Assets/PortfolioFX/ReferenceArc/T_ArcFlow.png",
+      "width": 1024
+    },
+    {
+      "peak": 230,
+      "nonzeroPixels": 6718,
+      "source": "Assets/UnityTechnologies/ParticlePack/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif",
+      "height": 512,
+      "conversion": "RedAlpha",
+      "output": "Assets/PortfolioFX/ReferenceArc/T_ArcBranchAtlas.png",
+      "width": 512
+    },
+    {
+      "peak": 255,
+      "nonzeroPixels": 56540,
+      "source": "Assets/PortfolioFX/ReferenceShield/ContactFlare.png",
+      "height": 512,
+      "conversion": "RedAlpha",
+      "output": "Assets/PortfolioFX/ReferenceArc/T_ArcContact.png",
+      "width": 512
+    }
+  ]
+}

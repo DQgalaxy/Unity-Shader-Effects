@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce719be490571c44dad51fba6b5c7dbf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005956
+  packageName: "Viking Village URP \u7EF4\u4EAC\u6751\u5E84"
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Models/Terrain/Materials/baseplate.mat
+  uploadId: 0

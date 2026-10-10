@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6453f8e1f814744d8b94e5a6d1f9942
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005956
+  packageName: "Viking Village URP \u7EF4\u4EAC\u6751\u5E84"
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab
+  uploadId: 0

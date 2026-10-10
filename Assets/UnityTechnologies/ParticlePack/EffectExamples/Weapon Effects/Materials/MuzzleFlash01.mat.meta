@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d15ad14c26e972a4c9ca28a8b83c5dc5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005957
+  packageName: Particle Pack
+  packageVersion: 3.2.0
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Weapon Effects/Materials/MuzzleFlash01.mat
+  uploadId: 0
